@@ -1,0 +1,37 @@
+What is a class? It is a template for making ______
+objects
+
+If we extend a class, the OOP principle we are using is _____
+inheritance
+
+The term used when creating a new object ____
+instantiation
+
+OOP principle, the ability of an object to take on many forms ___
+polymorphism
+
+OOP principle, a way of wrapping the variables and methods together as a single unit
+encapsulation
+
+Handle complexity by hiding unnecessary details from the user
+abstraction
+
+A re-sizable array, also called a dynamic array
+ArrayList
+
+Four pillars of OOP: inhertiance, polymorphism, encapsulation, _____
+abstraction
+
+API - Application ___ Interface
+programming
+
+IDE - _____ Development Environment
+Integrated
+
+A private ____ variable is only accessible within the same class as it is declared
+member
+
+___ handling attempts to gracefully handle runtime errors so that a program does not crash
+Exception
+
+
